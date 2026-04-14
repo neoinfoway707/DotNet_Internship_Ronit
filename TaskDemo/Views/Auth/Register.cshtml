@@ -1,0 +1,49 @@
+﻿@model TaskDemo.Models.User_Master
+@using Microsoft.AspNetCore.Mvc.Rendering
+
+<h2>Register</h2>
+
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input class="form-control" asp-for="FirstName" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input class="form-control" asp-for="LastName" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GenderId"></label>
+        <select class="form-control" asp-for="GenderId">
+            <option value="">--Select Gender--</option>
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+            <option value="O">Other</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="EducationId">Education</label>
+        <select class="form-control" asp-for="EducationId" asp-items="ViewBag.EducationList">
+            <option value="">--Select Education--</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input class="form-control" asp-for="Password" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Register</button>
+    <a asp-action="Login" class="btn btn-secondary">Login</a>
+</form>
+
+<a asp-controller="Auth" asp-action="Login">Login</a>
