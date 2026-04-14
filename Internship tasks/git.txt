@@ -1,0 +1,46 @@
+git init
+	to initialize empty repo.
+
+rm -rf .git
+	to remove git directory completely
+
+touch .gitignore
+	it ignores files like private apis,node modules,source codes 
+
+rm .gitignore
+	to remove gitignore file
+
+git add .
+	(stage all files) to add all files that you are working currently, if you remove period - . then you can add individual files
+
+git reset .
+	(unstage all files) 
+
+git reset --hard
+	be careful to use --hard flag it unstage files and even deletes all file
+
+git commit -m "message_here"
+	to commit things you added new to current working file, -m is flag that you add messgae to commit what you during commit
+
+git branch
+	used to see current branches during commits while many persons are working on same master branch you can make seperate branch to commit or chage code
+
+git checkout -b branch_name 
+	The -b flag in the git checkout command is used to create a new branch and immediately switch to it in a single step
+
+git swtich master
+	to switch from custom branch to master branch before switch please commit custom branch
+
+git stash -u
+	if you have half finished progress then,use this it will save current progress without commit,-u flag to include untracked files in a stash
+
+git stash pop
+	to continue your unfinished code
+
+git merge branch_name
+	to merge your custom branch to master branch
+
+git merge branch_name --squash
+	instead of merging all commits from custom branch into master branch you can use --squash flag to squash them down with single commit
+
+		

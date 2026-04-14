@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExSMiXwAm4E=",
+  "success": true,
+  "projectFilePath": "D:\\Ronit\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JANVIG\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
+    "C:\\Users\\JANVIG\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
