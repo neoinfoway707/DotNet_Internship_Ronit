@@ -180,6 +180,24 @@ select DepartmentID,count(*) as total_employee from employees
 group by DepartmentID
 having count(*) > 1
 
+--Exists:Give me rows where at least one matching row exists in the subquery
+--Any:Give me rows where the condition is true for at least one value in the subquery
+--All:Give me rows where the condition is true for every value in the subquery
+--🔹 INNER JOIN
+--“Give me only the rows where both tables have matching data”
+--🔹 LEFT JOIN
+--“Give me all rows from the left table and matching rows from the right table”
+--🔹 RIGHT JOIN
+--“Give me all rows from the right table and matching rows from the left table”
+--🔹 FULL JOIN
+--“Give me all rows from both tables, matching where possible and filling NULL where not”
+--🔹 CROSS JOIN
+--“Give me all possible combinations of rows from both tables”
+--🔹 SELF JOIN
+--“Join a table with itself to relate its own rows”
+--🔹 NATURAL JOIN (less used)
+--“Automatically join tables based on columns with the same name”
+	
 select DepartmentName from departments d
 where exists
 (
