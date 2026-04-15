@@ -16,3 +16,22 @@ D:\Ronit\Projects\DIDemo\DIDemo\bin\Debug\net9.0\Microsoft.Extensions.Dependency
 D:\Ronit\Projects\DIDemo\DIDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Ronit\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.csproj.AssemblyReference.cache
 D:\Ronit\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.csproj.Up2Date
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\DIDemo.exe
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\DIDemo.deps.json
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\DIDemo.runtimeconfig.json
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\DIDemo.dll
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\DIDemo.pdb
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.csproj.AssemblyReference.cache
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.AssemblyInfoInputs.cache
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.AssemblyInfo.cs
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.csproj.CoreCompileInputs.cache
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.sourcelink.json
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.csproj.Up2Date
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.dll
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\refint\DIDemo.dll
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.pdb
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\DIDemo.genruntimeconfig.cache
+D:\Ronit\Repos\Internship tasks\Projects\DIDemo\DIDemo\obj\Debug\net9.0\ref\DIDemo.dll

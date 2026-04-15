@@ -116,11 +116,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ronit\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
+      "projectUniqueName": "D:\\Ronit\\Repos\\Internship tasks\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
       "projectName": "DIDemo",
-      "projectPath": "D:\\Ronit\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
+      "projectPath": "D:\\Ronit\\Repos\\Internship tasks\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
       "packagesPath": "C:\\Users\\JANVIG\\.nuget\\packages\\",
-      "outputPath": "D:\\Ronit\\Projects\\DIDemo\\DIDemo\\obj\\",
+      "outputPath": "D:\\Ronit\\Repos\\Internship tasks\\Projects\\DIDemo\\DIDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 25.2\\Components\\Offline Packages",
