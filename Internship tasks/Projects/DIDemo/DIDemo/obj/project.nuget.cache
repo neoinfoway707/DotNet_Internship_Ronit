@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ExSMiXwAm4E=",
+  "dgSpecHash": "7kBt6OQ70cI=",
   "success": true,
-  "projectFilePath": "D:\\Ronit\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
+  "projectFilePath": "D:\\Ronit\\Repos\\Internship tasks\\Projects\\DIDemo\\DIDemo\\DIDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JANVIG\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.5\\microsoft.extensions.dependencyinjection.10.0.5.nupkg.sha512",
     "C:\\Users\\JANVIG\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512"
