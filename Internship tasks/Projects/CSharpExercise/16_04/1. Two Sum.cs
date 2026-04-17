@@ -4,7 +4,8 @@ public class Solution {
 
 for (int i = 0; i < nums.Length; i++)
 {
-    int complement = target - nums[i];
+            //target - nums[i] is the complement of nums[i] in the array, which we need to find
+            int complement = target - nums[i];
 
     if (map.ContainsKey(complement))
     {
